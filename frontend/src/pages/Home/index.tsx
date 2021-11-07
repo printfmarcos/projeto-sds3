@@ -17,7 +17,7 @@ const Home = () => {
                     </Link>
                 </div>
             </div>
-            <Footer />
+        <Footer />
         </>
     );
 }
