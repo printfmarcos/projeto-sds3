@@ -1,5 +1,6 @@
 # projeto-sds3
-Projeto desenvolvido na semana Spring React da Dev Superior
+Projeto desenvolvido na semana Spring React da Dev Superior.
+
 A aplicação é desenvolvida com Spring no Back-End e React no Front-End, e foi publicada online utilizando o Netlify. 
 
 A ideia é ter um dashboad de vendas, abordando alguns assuntos como: apresentação de gráficos, tabelas, paginação, desenvolvimento com spring boot utilizando padrão de camadas,
